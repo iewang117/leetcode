@@ -1,4 +1,4 @@
-public class xorOperation {
+public class XOROperation {
     public int xorOperation(int n, int start) {
         int[] nums = new int[n];
 
